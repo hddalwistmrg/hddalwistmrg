@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on **Computer Laboratory State Islamic of North Sumatera**
-- ![My Activity RN] (https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHdpdGpyZTM3Ym16Ymc1cWJjNnM1cDJ1ZDRydTc2YXFoaDFqMmxubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mkhMTALnrYRLnuoe5P/giphy.gif)
